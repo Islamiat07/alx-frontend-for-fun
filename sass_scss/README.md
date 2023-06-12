@@ -1,2 +1,0 @@
-# AUTHOR: ISLAMIAT OKEDELE
- README for sass
